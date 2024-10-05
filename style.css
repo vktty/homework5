@@ -1,0 +1,39 @@
+b {
+    color: red;
+}
+
+.paragraph {
+    color: blue;
+}
+
+#italic {
+    color: rgb(81, 150, 13);
+}
+
+a[href^="http"] {
+    color: rgb(225, 146, 28);
+}
+
+#alot b {
+    color: rgb(255, 10, 226);
+}
+
+div.light > span {
+    color:aqua;
+}
+
+div.list span#lol + em {
+    color: rgb(31, 255, 11);
+}
+
+div.lmao > p.next > b.right {
+    color: blueviolet;
+}
+
+div.lala ol#mine li {
+    color: rgba(162, 173, 13, 0.877);
+}
+
+.can div .mom .ron {
+    color: rgb(79, 0, 143);
+}
